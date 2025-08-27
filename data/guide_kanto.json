@@ -1,0 +1,35 @@
+{
+  "region": "Kanto",
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "PALLET TOWN",
+      "steps": [
+        "Start your journey in Pallet Town",
+        "Talk to Professor Oak to get your starter Pokemon",
+        "Choose between Bulbasaur, Charmander, or Squirtle",
+        "Battle your rival to learn the basics"
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "ROUTE 1",
+      "steps": [
+        "Head north from Pallet Town",
+        "Catch wild Pokemon to build your team",
+        "Battle trainers along the way",
+        "Arrive in Viridian City"
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "VIRIDIAN CITY",
+      "steps": [
+        "Visit the Pokemon Center to heal",
+        "Check the Pokemart for items",
+        "Battle the gym leader (if ready)",
+        "Continue north to Route 2"
+      ]
+    }
+  ]
+}

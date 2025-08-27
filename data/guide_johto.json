@@ -1,0 +1,35 @@
+{
+  "region": "Johto",
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "NEW BARK TOWN",
+      "steps": [
+        "Start your Johto adventure in New Bark Town",
+        "Visit Professor Elm's lab",
+        "Choose your starter Pokemon",
+        "Learn about the mysterious Pokemon egg"
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "ROUTE 29",
+      "steps": [
+        "Head west from New Bark Town",
+        "Catch new Pokemon species",
+        "Battle local trainers",
+        "Arrive in Cherrygrove City"
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "CHERRYGROVE CITY",
+      "steps": [
+        "Visit the Pokemon Center",
+        "Learn about the town's history",
+        "Stock up on supplies",
+        "Continue west to Route 30"
+      ]
+    }
+  ]
+}
